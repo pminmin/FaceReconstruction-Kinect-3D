@@ -16,5 +16,5 @@ First, you need to get `demo.exe` by building the current project, which is used
 python faceModel.py "×××"
 ```
 
-For more detailed information, you could refer to my blog.
+For more detailed information, you could refer to my [blog](http://pminmin.github.io/2016/01/13/facePointCloud/#more).
 
